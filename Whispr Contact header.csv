@@ -1,0 +1,57 @@
+Title,Mr
+FirstName,John
+LastName,Citizen
+OrganizationName,Whispir
+JobTitle,Head of Risk
+Division,Retail
+BusinessUnit,Operations
+Department,Facilities Management
+TeamName,Crisis Team
+AdditionalTeamName,Incident Mgmt Team
+Role,Fire Warden
+AdditionalRole,Media Liasion Officer
+WorkEmailAddressPrimary,j.ciziten@corp.com
+WorkEmailAddressSecondary,j.citizen@gmail.com
+WorkMobilePhonePrimary,61410101001
+WorkMobilePhoneSecondary,61410202002
+WorkPhoneAreacodePrimary,613
+WorkPhonePrimary,96428001
+WorkPhoneAreacodeSecondary,613
+WorkPhoneSecondary,96428002
+WorkFaxAreacodePrimary,613
+WorkFaxPrimary,96428101
+WorkFaxAreacodeSecondary,613
+WorkFaxSecondary,96428102
+OutOfBandDevicePrimary,11012112112
+OutOfBandDeviceSecondary,11013113113
+WorkAddress1,Level 9
+WorkAddress2,140 Queen Street
+WorkSuburb,Melbourne
+WorkState,VIC
+WorkPostcode,3000
+WorkCountry,Australia
+Timezone,10
+PersonalEmailAddress,j.citizen@gmail.com
+PersonalEmailAddressSecondary,j.citizen@hotmail.com
+PersonalMobilePhonePrimary,61410303003
+PersonalMobilePhoneSecondary,61410404004
+PersonalPhoneAreacodePrimary,613
+PersonalPhonePrimary,93871000
+PersonalPhoneAreacodeSecondary,613
+PersonalPhoneSecondary,93871001
+PersonalFaxAreacodePrimary,613
+PersonalFaxPrimary,93872000
+PersonalFaxAreacodeSecondary,613
+PersonalFaxSecondary,93872001
+PersonalAddress1,10 Chelsea Drv
+PersonalAddress2,
+PersonalSuburb,South Yarra
+PersonalState,VIC
+PersonalPostcode,3020
+PersonalCountry,Australia
+NextOfKinTitle,Mr
+NextOfKinFirstName,Tim
+NextOfKinLastName,Peters
+NextOfKinMobilePhonePrimary,61410505005
+NextOfKinPersonalAreacodePrimary,613
+NextOfKinPersonalPhonePrimary,93873000
